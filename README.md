@@ -112,7 +112,7 @@
   </p>
 
   <p>
-    If you are unsure which form applies to your payments, speak with a tax expert before filing.
+    If you are unsure which form applies to your payments, speak with <a href="https://www.booksmerge.com/">BooksMerge </a> tax expert before filing.
     Call <strong>1-866-513-4656</strong> for guidance.
   </p>
 
