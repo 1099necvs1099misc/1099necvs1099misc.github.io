@@ -233,7 +233,3 @@ The difference between <strong>1099-NEC and 1099-MISC</strong> is simple in theo
 If you want expert oversight instead of guesswork, connect with <a href="https://www.booksmerge.com/" target="_blank">BooksMerge</a> for professional tax and accounting support.
 </p>
 
-</article>
-
-</body>
-</html>
